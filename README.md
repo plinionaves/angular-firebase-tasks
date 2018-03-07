@@ -1,10 +1,11 @@
 # Angular Firebase Tasks
 
-Este projeto foi desenvolvido no curso [Curso um gerenciador de tarefas com Angular, Material e Firebase](https://www.udemy.com/user/plinio-naves/)
+Este projeto foi desenvolvido no curso <a href="https://www.udemy.com/user/plinio-naves/" target="_blank">Criando um gerenciador de tarefas com Angular, Material e Firebase</a>
 
 ## Live example
 
-Para ver a aplicação final rodando, acesse [https://angular-firebase-tasks.surge.sh](https://angular-firebase-tasks.surge.sh)
+Para ver a aplicação final rodando, acesse
+<a href="https://angular-firebase-tasks.surge.sh" target="_blank">https://angular-firebase-tasks.surge.sh<a/>
 
 ## Angular CLI
 

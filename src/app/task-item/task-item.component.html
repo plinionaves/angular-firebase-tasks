@@ -1,0 +1,4 @@
+<mat-list-item (click)="executeAction('selectTask')">
+  <p matLine>{{ task.title }}</p>
+  <mat-slide-toggle [checked]="task.done" (click)="executeAction('performTask'); $event.stopPropagation()"></mat-slide-toggle>
+</mat-list-item>

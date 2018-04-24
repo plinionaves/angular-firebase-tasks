@@ -1,6 +1,6 @@
 # Angular Firebase Tasks
 
-Este projeto foi desenvolvido no curso <a href="https://www.udemy.com/user/plinio-naves/" target="_blank">Criando um gerenciador de tarefas com Angular, Material e Firebase</a>
+Este projeto foi desenvolvido no curso <a href="https://www.udemy.com/criando-aplicacoes-com-angular-material-e-firebase/?couponCode=ANGULAR_GITHUB" target="_blank">Criando aplicações com Angular, Material e Firebase</a>
 
 ## Live example
 
